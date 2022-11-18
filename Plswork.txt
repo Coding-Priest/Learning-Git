@@ -1,0 +1,3 @@
+Hello
+This is my first time in GIT
+Lets push this file into our repository
